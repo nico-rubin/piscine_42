@@ -1,6 +1,6 @@
-# piscine
+# piscine_42
 
-# My work from the Piscine of 42, September 2020.
+#### My work from the Piscine of 42, September 2020.
 
 ## Days
 
