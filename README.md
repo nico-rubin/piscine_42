@@ -36,19 +36,19 @@
 ## Final Exam
 - FinalExam 72% 
 ```
-- aff_z:white_check_mark:
-- aff_a:white_check_mark:
-- ft_countdown:white_check_mark:
-- rev_print:white_check_mark:
-- buzz_fizz:white_check_mark:
-- aff_first_param:white_check_mark:
-- first_word:white_check_mark:
-- ft_strcmp:white_check_mark:
-- ft_strrev:white_check_mark:
-- ft_atoi:white_check_mark:
-- last_word:white_check_mark:
-- ft_itoa:white_check_mark:
-- ft_split:white_check_mark:
-- ft_sort_list:x:)
+- aff_z :white_check_mark:
+- aff_a :white_check_mark:
+- ft_countdown :white_check_mark:
+- rev_print :white_check_mark:
+- buzz_fizz :white_check_mark:
+- aff_first_param :white_check_mark:
+- first_word :white_check_mark:
+- ft_strcmp :white_check_mark:
+- ft_strrev :white_check_mark:
+- ft_atoi :white_check_mark:
+- last_word :white_check_mark:
+- ft_itoa :white_check_mark:
+- ft_split :white_check_mark:
+- ft_sort_list :x:
 ```
 
