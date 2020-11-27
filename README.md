@@ -48,5 +48,6 @@
   - last_word :white_check_mark:
   - ft_itoa :white_check_mark:
   - ft_split :white_check_mark:
+  - ft_sort_list :x:
 
 
