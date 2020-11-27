@@ -34,7 +34,7 @@
 - Exam02 56% :white_check_mark:
 
 ## Final Exam
-- FinalExam 72% 
+- FinalExam 72% :white_check_mark:
 ```
 - aff_z :white_check_mark:
 - aff_a :white_check_mark:
